@@ -1,6 +1,6 @@
 # Influenza Surveillance and Forecasting Dashboard
 
-##Live Dashboard
+Live Dashboard
 https://akhilavanga.shinyapps.io/influenza-surveillance-dashboard/
 
 ## Overview
