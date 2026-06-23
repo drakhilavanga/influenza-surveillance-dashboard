@@ -1,0 +1,35 @@
+"*Beginning for the 2015-16 season, reports from public health and clinical laboratories are presented separately in the weekly influenza update, FluView.  Data presented from public health laboratories include the weekly total number of specimens tested, the number of positive influenza tests, and the number by influenza virus type, subtype, and influenza B lineage."
+REGION TYPE,REGION,YEAR,WEEK,TOTAL SPECIMENS,A (2009 H1N1),A (H3),A (Subtyping not Performed),B,BVic,BYam,H3N2v,A (H5)
+National,X,2025,40,986,62,43,5,5,5,0,0,0
+National,X,2025,41,952,52,65,6,5,1,0,0,0
+National,X,2025,42,1055,68,108,13,6,2,0,0,0
+National,X,2025,43,1184,114,139,12,3,7,0,0,0
+National,X,2025,44,1267,77,187,13,10,3,0,0,0
+National,X,2025,45,1550,141,431,16,14,6,0,0,0
+National,X,2025,46,1759,175,670,29,24,11,0,0,2
+National,X,2025,47,2380,209,1053,54,61,13,0,0,0
+National,X,2025,48,2485,209,1314,137,33,18,0,0,0
+National,X,2025,49,3489,206,1736,245,51,25,0,0,0
+National,X,2025,50,4792,250,2522,751,43,25,0,0,0
+National,X,2025,51,7036,302,3733,1616,78,33,0,0,0
+National,X,2025,52,7790,333,4297,1869,93,53,0,0,0
+National,X,2025,53,7715,381,4105,1770,106,50,0,0,0
+National,X,2026,1,6709,326,3314,1200,119,51,0,0,0
+National,X,2026,2,5012,300,2437,628,113,81,0,0,0
+National,X,2026,3,4574,335,2452,313,146,91,0,0,0
+National,X,2026,4,3964,278,1982,238,199,156,0,0,0
+National,X,2026,5,4486,354,2083,205,294,175,0,0,0
+National,X,2026,6,4097,308,1635,199,342,250,0,0,0
+National,X,2026,7,3617,280,1220,164,512,315,0,0,0
+National,X,2026,8,3140,238,978,102,411,331,0,0,0
+National,X,2026,9,3111,222,820,74,523,391,0,0,0
+National,X,2026,10,2631,168,508,42,465,378,0,0,0
+National,X,2026,11,2326,129,341,30,467,356,0,0,0
+National,X,2026,12,2065,149,266,19,414,366,0,0,0
+National,X,2026,13,1760,112,237,9,366,302,0,0,0
+National,X,2026,14,1432,110,139,11,287,200,0,0,0
+National,X,2026,15,1297,92,160,17,234,121,0,0,0
+National,X,2026,16,1061,51,96,5,199,88,0,0,0
+National,X,2026,17,973,44,122,7,131,73,0,0,0
+National,X,2026,18,821,36,98,4,102,70,0,0,0
+National,X,2026,19,411,7,2,2,24,16,0,0,0
